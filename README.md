@@ -34,6 +34,9 @@ Implements the Huffman compression algorithm for lossless text encoding.
 Clone the repository:
 ```bash
 git clone https://github.com/naseridev/algorithm-design.git
+```
+
+```bash
 cd algorithm-design
 ```
 
